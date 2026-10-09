@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥇 Gold 1] 호출 순서가 곧 바이트코드 — DreamHack CALL ORDER 풀이](https://zino.kr/blog/dreamhack-call-order-writeup)
+- [[🥇 Gold 1] WASM 미로를 메모리에서 읽어 BFS로 풀다 — DreamHack WasMazed 풀이](https://zino.kr/blog/dreamhack-wasmazed-writeup)
+- [[🥇 Gold 3] 교과서 RSA 실수 9종 세트로 그림 퍼즐 풀기 — DreamHack EZ-RSA-PZ 풀이](https://zino.kr/blog/ez-rsa-pz)
+- [[🥈 Silver 4] RSA인 척하는 가우스정수 거듭제곱 — DreamHack iRSA 풀이](https://zino.kr/blog/dreamhack-irsa-writeup)
 - [[🥇 Gold 2] 악성 HWP 속 EPS에 숨은 PostScript 디코더 — DreamHack DreamHWP1 풀이](https://zino.kr/blog/dreamhack-dreamhwp1-writeup)
 - [[🥈 Silver 3] 난수생성기가 사실은 나눗셈이었다 — DreamHack AFSR 풀이](https://zino.kr/blog/dreamhack-afsr-writeup)
-- [[🥉 Bronze 1] 글자 e가 없는 책 — 리포그램으로 푸는 단일 치환암호 — DreamHack gatsby 풀이](https://zino.kr/blog/dreamhack-gatsby-writeup)
-- [[🥈 Silver 4] 10^100층 멱탑을 2^64로 접기 — DreamHack tetration_modular 풀이](https://zino.kr/blog/dreamhack-tetration-modular-writeup)
-- [[🥇 Gold 2] 문을 차면 flag를 검사하는 Unity 게임 — DreamHack Kick the door 풀이](https://zino.kr/blog/dreamhack-kick-the-door-writeup)
-- [[🥈 Silver 1] 교차하는 선으로 숨긴 이미지 — DreamHack Crossing 풀이](https://zino.kr/blog/dreamhack-crossing-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
