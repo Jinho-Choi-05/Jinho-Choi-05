@@ -12,10 +12,16 @@
 - **시스템 엔지니어링** — 도메인·인증서·리버스 프록시·WAF/IPS까지 전 구간 직접 운영
 
 ### 최근 글
-- [Crawl4AI 언인증 RCE (CVE-2026-57572)](https://zino.kr/research/crawl4ai-rce-cve-2026-57572)
-- [Rails Active Storage RCE (CVE-2026-66066)](https://zino.kr/research/rails-activestorage-rce-cve-2026-66066)
-- [집 서버에 WAF/IPS 직접 짓기 — nginx + CrowdSec 4계층](https://zino.kr/research/home-server-waf-ips-crowdsec)
-- [DreamHack 워게임 풀이 모음](https://zino.kr/blog)
+<!-- ZINO_POSTS:START -->
+- [[🥇 Gold 2] 악성 HWP 속 EPS에 숨은 PostScript 디코더 — DreamHack DreamHWP1 풀이](https://zino.kr/blog/dreamhack-dreamhwp1-writeup)
+- [[🥈 Silver 3] 난수생성기가 사실은 나눗셈이었다 — DreamHack AFSR 풀이](https://zino.kr/blog/dreamhack-afsr-writeup)
+- [[🥉 Bronze 1] 글자 e가 없는 책 — 리포그램으로 푸는 단일 치환암호 — DreamHack gatsby 풀이](https://zino.kr/blog/dreamhack-gatsby-writeup)
+- [[🥈 Silver 4] 10^100층 멱탑을 2^64로 접기 — DreamHack tetration_modular 풀이](https://zino.kr/blog/dreamhack-tetration-modular-writeup)
+- [[🥇 Gold 2] 문을 차면 flag를 검사하는 Unity 게임 — DreamHack Kick the door 풀이](https://zino.kr/blog/dreamhack-kick-the-door-writeup)
+- [[🥈 Silver 1] 교차하는 선으로 숨긴 이미지 — DreamHack Crossing 풀이](https://zino.kr/blog/dreamhack-crossing-writeup)
+<!-- ZINO_POSTS:END -->
+
+전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
 
 ### Stack
 `Ubuntu` `nginx` `Next.js` `TypeScript` `SQLite` `PM2` `Docker` `CrowdSec`
