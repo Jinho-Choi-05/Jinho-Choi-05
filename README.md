@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[💠 Platinum 3] 신기루 뒤의 선형 연립방정식 — DreamHack Mirage 풀이](https://zino.kr/blog/dreamhack-mirage-writeup)
+- [[💎 Platinum 3] 암호화된 RISC-V 멀티-VM을 복호해 flag를 역산하다 — DreamHack BumpyMM 풀이](https://zino.kr/blog/dreamhack-bumpymm-writeup)
+- [[🥉 Bronze 2] 400개 난수 파일 더미에서 플래그 한 줄 찾기 — DreamHack Random String 풀이](https://zino.kr/blog/dreamhack-random-string-writeup)
+- [[💠 Platinum 4] 이진체 위의 RSA는 다항식 인수분해로 무너진다 — DreamHack Red-Black Christmas Tree 풀이](https://zino.kr/blog/dreamhack-red-black-christmas-tree-writeup)
 - [[🥇 Gold 1] 호출 순서가 곧 바이트코드 — DreamHack CALL ORDER 풀이](https://zino.kr/blog/dreamhack-call-order-writeup)
 - [[🥇 Gold 1] WASM 미로를 메모리에서 읽어 BFS로 풀다 — DreamHack WasMazed 풀이](https://zino.kr/blog/dreamhack-wasmazed-writeup)
-- [[🥇 Gold 3] 교과서 RSA 실수 9종 세트로 그림 퍼즐 풀기 — DreamHack EZ-RSA-PZ 풀이](https://zino.kr/blog/ez-rsa-pz)
-- [[🥈 Silver 4] RSA인 척하는 가우스정수 거듭제곱 — DreamHack iRSA 풀이](https://zino.kr/blog/dreamhack-irsa-writeup)
-- [[🥇 Gold 2] 악성 HWP 속 EPS에 숨은 PostScript 디코더 — DreamHack DreamHWP1 풀이](https://zino.kr/blog/dreamhack-dreamhwp1-writeup)
-- [[🥈 Silver 3] 난수생성기가 사실은 나눗셈이었다 — DreamHack AFSR 풀이](https://zino.kr/blog/dreamhack-afsr-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
