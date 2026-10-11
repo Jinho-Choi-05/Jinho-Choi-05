@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥈 Silver 2] 같은 nonce 두 스크립트를 hash 로 가르기 — DreamHack file-csp-1 풀이](https://zino.kr/blog/dreamhack-file-csp-1-writeup)
+- [[🥇 Gold 3] IO_FILE vtable 검증을 8바이트로 비껴가기 — DreamHack iofile_vtable_check 풀이](https://zino.kr/blog/dreamhack-iofile-vtable-check-writeup)
+- [[🥉 Bronze 2] 자판 위에 글자를 그리는 암호 — DreamHack keyboard toxicosis 풀이](https://zino.kr/blog/dreamhack-keyboard-toxicosis-writeup)
+- [[🥉 Bronze 2] private 는 비밀이 아니다 — DreamHack Where is gift? 풀이](https://zino.kr/blog/dreamhack-where-is-gift-writeup)
+- [[🥈 Silver 3] 난수가 상쇄되는 플래그 체커 뜯기 — DreamHack CRC 풀이](https://zino.kr/blog/dreamhack-crc-writeup)
 - [[💠 Platinum 3] 신기루 뒤의 선형 연립방정식 — DreamHack Mirage 풀이](https://zino.kr/blog/dreamhack-mirage-writeup)
-- [[💎 Platinum 3] 암호화된 RISC-V 멀티-VM을 복호해 flag를 역산하다 — DreamHack BumpyMM 풀이](https://zino.kr/blog/dreamhack-bumpymm-writeup)
-- [[🥉 Bronze 2] 400개 난수 파일 더미에서 플래그 한 줄 찾기 — DreamHack Random String 풀이](https://zino.kr/blog/dreamhack-random-string-writeup)
-- [[💠 Platinum 4] 이진체 위의 RSA는 다항식 인수분해로 무너진다 — DreamHack Red-Black Christmas Tree 풀이](https://zino.kr/blog/dreamhack-red-black-christmas-tree-writeup)
-- [[🥇 Gold 1] 호출 순서가 곧 바이트코드 — DreamHack CALL ORDER 풀이](https://zino.kr/blog/dreamhack-call-order-writeup)
-- [[🥇 Gold 1] WASM 미로를 메모리에서 읽어 BFS로 풀다 — DreamHack WasMazed 풀이](https://zino.kr/blog/dreamhack-wasmazed-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
