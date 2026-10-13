@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥉 Bronze 3] X-Forwarded-For 한 줄로 로컬호스트 사칭 — DreamHack whoami 풀이](https://zino.kr/blog/dreamhack-whoami-writeup)
 - [[🥉 Bronze 2] HTTP HEAD로 Flask 쿠키 빼내기 — DreamHack iwanttoeatcookie 풀이](https://zino.kr/blog/dreamhack-iwanttoeatcookie-writeup)
 - [[🥈 Silver 4] OOB XOR 한 방으로 .fini_array 가로채기 — DreamHack XOR Board 풀이](https://zino.kr/blog/xor-board)
 - [[🥈 Silver 2] 같은 nonce 두 스크립트를 hash 로 가르기 — DreamHack file-csp-1 풀이](https://zino.kr/blog/dreamhack-file-csp-1-writeup)
 - [[🥇 Gold 3] IO_FILE vtable 검증을 8바이트로 비껴가기 — DreamHack iofile_vtable_check 풀이](https://zino.kr/blog/dreamhack-iofile-vtable-check-writeup)
 - [[🥉 Bronze 2] 자판 위에 글자를 그리는 암호 — DreamHack keyboard toxicosis 풀이](https://zino.kr/blog/dreamhack-keyboard-toxicosis-writeup)
-- [[🥉 Bronze 2] private 는 비밀이 아니다 — DreamHack Where is gift? 풀이](https://zino.kr/blog/dreamhack-where-is-gift-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
