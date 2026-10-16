@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥇 Gold 4] 스택 VM 의 SP 를 밀어 복귀 주소에 ORW ROP 를 심는다 — DreamHack dreamvm 풀이](https://zino.kr/blog/dreamhack-dreamvm-writeup)
+- [[🥈 Silver 4] 메모장 블랙리스트를 따옴표와 #으로 넘긴다 — DreamHack Dream's Notepad 풀이](https://zino.kr/blog/dreamhack-dream-s-notepad-writeup)
+- [[🥉 Bronze 2] 정수의 양 끝을 넘겨 셸을 딴다 — DreamHack set-int 풀이](https://zino.kr/blog/dreamhack-set-int-writeup)
+- [[🥈 Silver 2] 스택을 깊이 파고들어 거대 오버플로우 되살리기 — DreamHack Sea of Stack 풀이](https://zino.kr/blog/dreamhack-sea-of-stack-writeup)
 - [[💠 Platinum 4] 입력-무관 "매직" 디코드의 정체 — DreamHack MagicVM 풀이](https://zino.kr/blog/magicvm)
 - [[🥈 Silver 1] std::copy 힙 오버플로우로 함수 포인터 덮기 — DreamHack cpp_container_1 풀이](https://zino.kr/blog/dreamhack-cpp-container-1-writeup)
-- [[🥉 Bronze 3] .css 하나로 관리자 배지를 훔친다 — DreamHack Dream Badge 풀이](https://zino.kr/blog/dream-badge)
-- [[🥉 Bronze 2] 카나리를 새서 되돌리고 덮는다 — DreamHack struct person_t 풀이](https://zino.kr/blog/struct-person-t)
-- [[🥉 Bronze 3] X-Forwarded-For 한 줄로 로컬호스트 사칭 — DreamHack whoami 풀이](https://zino.kr/blog/dreamhack-whoami-writeup)
-- [[🥉 Bronze 2] HTTP HEAD로 Flask 쿠키 빼내기 — DreamHack iwanttoeatcookie 풀이](https://zino.kr/blog/dreamhack-iwanttoeatcookie-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
