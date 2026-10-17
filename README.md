@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥉 Bronze 4] strlen BOF-ban 을 선두 NUL 로 뚫고 movaps 정렬까지 — DreamHack block bof 풀이](https://zino.kr/blog/dreamhack-block-bof-writeup)
+- [[🥉 Bronze 1] 2²⁰번이면 충분하다 — DreamHack 40 Birthdays 풀이](https://zino.kr/blog/dreamhack-40-birthdays-writeup)
+- [[🥈 Silver 3] 필터는 원본에, 정규화는 그 뒤에 — DreamHack Hangul - Revenge 풀이](https://zino.kr/blog/dreamhack-hangul-revenge-writeup)
+- [[🥉 Bronze 3] 업로드한 파일을 그대로 eval() 하는 서버 — DreamHack 이발 풀이](https://zino.kr/blog/dreamhack-eval-writeup)
 - [[🥇 Gold 4] 스택 VM 의 SP 를 밀어 복귀 주소에 ORW ROP 를 심는다 — DreamHack dreamvm 풀이](https://zino.kr/blog/dreamhack-dreamvm-writeup)
 - [[🥈 Silver 4] 메모장 블랙리스트를 따옴표와 #으로 넘긴다 — DreamHack Dream's Notepad 풀이](https://zino.kr/blog/dreamhack-dream-s-notepad-writeup)
-- [[🥉 Bronze 2] 정수의 양 끝을 넘겨 셸을 딴다 — DreamHack set-int 풀이](https://zino.kr/blog/dreamhack-set-int-writeup)
-- [[🥈 Silver 2] 스택을 깊이 파고들어 거대 오버플로우 되살리기 — DreamHack Sea of Stack 풀이](https://zino.kr/blog/dreamhack-sea-of-stack-writeup)
-- [[💠 Platinum 4] 입력-무관 "매직" 디코드의 정체 — DreamHack MagicVM 풀이](https://zino.kr/blog/magicvm)
-- [[🥈 Silver 1] std::copy 힙 오버플로우로 함수 포인터 덮기 — DreamHack cpp_container_1 풀이](https://zino.kr/blog/dreamhack-cpp-container-1-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
