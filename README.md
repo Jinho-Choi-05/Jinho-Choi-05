@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥉 Bronze 1] 광물 하나를 엉뚱한 타입으로 읽는다 — DreamHack mining game 풀이](https://zino.kr/blog/dreamhack-mining-game-writeup)
+- [[🥉 Bronze 2] 틀리면 3초 쉰다 — 그 전에 100발을 한꺼번에 쏜다 · DreamHack ez_race 풀이](https://zino.kr/blog/dreamhack-ez-race-writeup)
+- [[🥈 Silver 3] escape 되지 않는 변수를 찾아라 — DreamHack [wargame.kr] dmbs335 풀이](https://zino.kr/blog/dreamhack-dmbs335-writeup)
+- [[💠 Platinum 4] SSRF로 node·php를 꿰어 redis 웹셸까지 — DreamHack phpythonode 풀이](https://zino.kr/blog/dreamhack-phpythonode-writeup)
 - [[🥉 Bronze 4] strlen BOF-ban 을 선두 NUL 로 뚫고 movaps 정렬까지 — DreamHack block bof 풀이](https://zino.kr/blog/dreamhack-block-bof-writeup)
 - [[🥉 Bronze 1] 2²⁰번이면 충분하다 — DreamHack 40 Birthdays 풀이](https://zino.kr/blog/dreamhack-40-birthdays-writeup)
-- [[🥈 Silver 3] 필터는 원본에, 정규화는 그 뒤에 — DreamHack Hangul - Revenge 풀이](https://zino.kr/blog/dreamhack-hangul-revenge-writeup)
-- [[🥉 Bronze 3] 업로드한 파일을 그대로 eval() 하는 서버 — DreamHack 이발 풀이](https://zino.kr/blog/dreamhack-eval-writeup)
-- [[🥇 Gold 4] 스택 VM 의 SP 를 밀어 복귀 주소에 ORW ROP 를 심는다 — DreamHack dreamvm 풀이](https://zino.kr/blog/dreamhack-dreamvm-writeup)
-- [[🥈 Silver 4] 메모장 블랙리스트를 따옴표와 #으로 넘긴다 — DreamHack Dream's Notepad 풀이](https://zino.kr/blog/dreamhack-dream-s-notepad-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
