@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
-- [[🥉 Bronze 1] 광물 하나를 엉뚱한 타입으로 읽는다 — DreamHack mining game 풀이](https://zino.kr/blog/dreamhack-mining-game-writeup)
-- [[🥉 Bronze 2] 틀리면 3초 쉰다 — 그 전에 100발을 한꺼번에 쏜다 · DreamHack ez_race 풀이](https://zino.kr/blog/dreamhack-ez-race-writeup)
-- [[🥈 Silver 3] escape 되지 않는 변수를 찾아라 — DreamHack [wargame.kr] dmbs335 풀이](https://zino.kr/blog/dreamhack-dmbs335-writeup)
-- [[💠 Platinum 4] SSRF로 node·php를 꿰어 redis 웹셸까지 — DreamHack phpythonode 풀이](https://zino.kr/blog/dreamhack-phpythonode-writeup)
-- [[🥉 Bronze 4] strlen BOF-ban 을 선두 NUL 로 뚫고 movaps 정렬까지 — DreamHack block bof 풀이](https://zino.kr/blog/dreamhack-block-bof-writeup)
-- [[🥉 Bronze 1] 2²⁰번이면 충분하다 — DreamHack 40 Birthdays 풀이](https://zino.kr/blog/dreamhack-40-birthdays-writeup)
+- [[🥈 Silver 1] 인사 한 줄에 템플릿을 심다 — DreamHack Hello, go! 풀이](https://zino.kr/blog/dreamhack-hello-go-writeup)
+- [[💎 Platinum 3] 다항식 안에 숨은 RSA — DreamHack multipoint2 풀이](https://zino.kr/blog/dreamhack-multipoint2-writeup)
+- [[🥉 Bronze 1] puts 한 줄로 PIE·카나리를 다 흘리기 — DreamHack Repeat Service 풀이](https://zino.kr/blog/dreamhack-repeat-service-writeup)
+- [[🥈 Silver 2] 완료된 할 일을 훔쳐보기 — DreamHack TODO List 0.0.1 풀이](https://zino.kr/blog/dreamhack-todo-list-0-0-1-writeup)
+- [[🥉 Bronze 2] win 함수 없는 ARM32에서 전역 포인터를 갈아끼워 셸 따기 — DreamHack Arm Training-v2 풀이](https://zino.kr/blog/dreamhack-arm-training-v2-writeup)
+- [[🥈 Silver 4] development 환경 그대로 배포하면 서명 키가 샌다 — DreamHack development-env 풀이](https://zino.kr/blog/development-env)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
