@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥈 Silver 3] 포트 표기 하나로 무너지는 호스트 화이트리스트 — DreamHack Broken Is SSRF possible? 풀이](https://zino.kr/blog/dreamhack-broken-is-ssrf-possible-writeup)
+- [[🥈 Silver 4] 누적 XOR 를 거꾸로 돌려 카나리와 libc 를 흘린다 — DreamHack xrop 풀이](https://zino.kr/blog/dreamhack-xrop-writeup)
+- [[🥇 Gold 4] api_info 한 줄로 관리자 되기 — DreamHack Notes API 풀이](https://zino.kr/blog/dreamhack-notes-api-writeup)
 - [[🥈 Silver 1] 인사 한 줄에 템플릿을 심다 — DreamHack Hello, go! 풀이](https://zino.kr/blog/dreamhack-hello-go-writeup)
 - [[💎 Platinum 3] 다항식 안에 숨은 RSA — DreamHack multipoint2 풀이](https://zino.kr/blog/dreamhack-multipoint2-writeup)
 - [[🥉 Bronze 1] puts 한 줄로 PIE·카나리를 다 흘리기 — DreamHack Repeat Service 풀이](https://zino.kr/blog/dreamhack-repeat-service-writeup)
-- [[🥈 Silver 2] 완료된 할 일을 훔쳐보기 — DreamHack TODO List 0.0.1 풀이](https://zino.kr/blog/dreamhack-todo-list-0-0-1-writeup)
-- [[🥉 Bronze 2] win 함수 없는 ARM32에서 전역 포인터를 갈아끼워 셸 따기 — DreamHack Arm Training-v2 풀이](https://zino.kr/blog/dreamhack-arm-training-v2-writeup)
-- [[🥈 Silver 4] development 환경 그대로 배포하면 서명 키가 샌다 — DreamHack development-env 풀이](https://zino.kr/blog/development-env)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
