@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥇 Gold 3] 창 하나로 슬롯 열 개를 읽고 CRT 로 잭팟 맞추기 — DreamHack Casino-777 풀이](https://zino.kr/blog/dreamhack-casino-777-writeup)
+- [[🥈 Silver 2] 영문자 한 글자 없이 봇의 쿠키를 가져온다 — DreamHack baby xss 풀이](https://zino.kr/blog/dreamhack-baby-xss-writeup)
+- [잠긴 부트로더로 중국 내수 태블릿 한글화하기 — Y700 4세대 루팅기](https://zino.kr/blog/lenovo-y700-루팅-한글화)
+- [[🥇 Gold 3] 열 글자 안에 들어가는 SSTI 하나로 — DreamHack Rednose Airlines 풀이](https://zino.kr/blog/dreamhack-rednose-airlines-writeup)
 - [[🥈 Silver 3] 포트 표기 하나로 무너지는 호스트 화이트리스트 — DreamHack Broken Is SSRF possible? 풀이](https://zino.kr/blog/dreamhack-broken-is-ssrf-possible-writeup)
 - [[🥈 Silver 4] 누적 XOR 를 거꾸로 돌려 카나리와 libc 를 흘린다 — DreamHack xrop 풀이](https://zino.kr/blog/dreamhack-xrop-writeup)
-- [[🥇 Gold 4] api_info 한 줄로 관리자 되기 — DreamHack Notes API 풀이](https://zino.kr/blog/dreamhack-notes-api-writeup)
-- [[🥈 Silver 1] 인사 한 줄에 템플릿을 심다 — DreamHack Hello, go! 풀이](https://zino.kr/blog/dreamhack-hello-go-writeup)
-- [[💎 Platinum 3] 다항식 안에 숨은 RSA — DreamHack multipoint2 풀이](https://zino.kr/blog/dreamhack-multipoint2-writeup)
-- [[🥉 Bronze 1] puts 한 줄로 PIE·카나리를 다 흘리기 — DreamHack Repeat Service 풀이](https://zino.kr/blog/dreamhack-repeat-service-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
