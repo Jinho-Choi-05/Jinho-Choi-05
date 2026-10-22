@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥇 Gold 2] 학교 이름이 템플릿이 되고, 공개키가 비밀키가 된다 — DreamHack dreamschool 풀이](https://zino.kr/blog/dreamhack-dreamschool-writeup)
+- [[🥉 Bronze 2] 금지 목록에 LD_PRELOAD 는 있고 LD_AUDIT 은 없다 — DreamHack linux_forest 풀이](https://zino.kr/blog/dreamhack-linux-forest-writeup)
+- [[🥉 Bronze 1] 첫 차이 인덱스를 알려 주는 비교 함수로 카나리를 읽는다 — DreamHack newstrcmp 풀이](https://zino.kr/blog/dreamhack-newstrcmp-writeup)
+- [잠긴 부트로더로 중국 내수 태블릿 한글화하기 (2) — 키보드, 리눅스 데스크탑, 그리고 이틀짜리 오진](https://zino.kr/blog/lenovo-y700-루팅-한글화-2)
 - [[🥇 Gold 3] 창 하나로 슬롯 열 개를 읽고 CRT 로 잭팟 맞추기 — DreamHack Casino-777 풀이](https://zino.kr/blog/dreamhack-casino-777-writeup)
 - [[🥈 Silver 2] 영문자 한 글자 없이 봇의 쿠키를 가져온다 — DreamHack baby xss 풀이](https://zino.kr/blog/dreamhack-baby-xss-writeup)
-- [잠긴 부트로더로 중국 내수 태블릿 한글화하기 — Y700 4세대 루팅기](https://zino.kr/blog/lenovo-y700-루팅-한글화)
-- [[🥇 Gold 3] 열 글자 안에 들어가는 SSTI 하나로 — DreamHack Rednose Airlines 풀이](https://zino.kr/blog/dreamhack-rednose-airlines-writeup)
-- [[🥈 Silver 3] 포트 표기 하나로 무너지는 호스트 화이트리스트 — DreamHack Broken Is SSRF possible? 풀이](https://zino.kr/blog/dreamhack-broken-is-ssrf-possible-writeup)
-- [[🥈 Silver 4] 누적 XOR 를 거꾸로 돌려 카나리와 libc 를 흘린다 — DreamHack xrop 풀이](https://zino.kr/blog/dreamhack-xrop-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
