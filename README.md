@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥇 Gold 3] 필터는 글자를, curl 은 URL 을 본다 — DreamHack Curlove 풀이](https://zino.kr/blog/dreamhack-curlove-writeup)
+- [[🥇 Gold 4] JSON 한 줄이 클래스를 오염시킨다 — DreamHack Pybrid 풀이](https://zino.kr/blog/dreamhack-pybrid-writeup)
+- [[🥉 Bronze 4] robots.txt 가 가리킨 플래그가 가짜였다 — DreamHack fakeday 풀이](https://zino.kr/blog/dreamhack-fakeday-writeup)
+- [[🥈 Silver 3] 임시 테이블을 두 번 못 여는 SQLi — DreamHack [wargame.kr] counting query 풀이](https://zino.kr/blog/dreamhack-wargame-kr-counting-query-writeup)
 - [[🥇 Gold 2] 학교 이름이 템플릿이 되고, 공개키가 비밀키가 된다 — DreamHack dreamschool 풀이](https://zino.kr/blog/dreamhack-dreamschool-writeup)
 - [[🥉 Bronze 2] 금지 목록에 LD_PRELOAD 는 있고 LD_AUDIT 은 없다 — DreamHack linux_forest 풀이](https://zino.kr/blog/dreamhack-linux-forest-writeup)
-- [[🥉 Bronze 1] 첫 차이 인덱스를 알려 주는 비교 함수로 카나리를 읽는다 — DreamHack newstrcmp 풀이](https://zino.kr/blog/dreamhack-newstrcmp-writeup)
-- [잠긴 부트로더로 중국 내수 태블릿 한글화하기 (2) — 키보드, 리눅스 데스크탑, 그리고 이틀짜리 오진](https://zino.kr/blog/lenovo-y700-루팅-한글화-2)
-- [[🥇 Gold 3] 창 하나로 슬롯 열 개를 읽고 CRT 로 잭팟 맞추기 — DreamHack Casino-777 풀이](https://zino.kr/blog/dreamhack-casino-777-writeup)
-- [[🥈 Silver 2] 영문자 한 글자 없이 봇의 쿠키를 가져온다 — DreamHack baby xss 풀이](https://zino.kr/blog/dreamhack-baby-xss-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
