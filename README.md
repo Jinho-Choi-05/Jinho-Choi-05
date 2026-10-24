@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥈 Silver 1] GIF 네 글자로 위장한 PHP 객체 — DreamHack pharmacy 풀이](https://zino.kr/blog/dreamhack-pharmacy-writeup)
+- [[🥈 Silver 1] 대문자로 가입하면 관리자가 된다 — DreamHack WEB_2021A_Medium 풀이](https://zino.kr/blog/dreamhack-web-2021a-medium-writeup)
+- [[🥉 Bronze 1] 시계를 보여주는 카나리 — DreamHack randerer 풀이](https://zino.kr/blog/dreamhack-randerer-writeup)
+- [[🥈 Silver 3] 평문이 어느 1/4 구간인지만 흘려도 RSA 는 통째로 털린다 — DreamHack Supernova 풀이](https://zino.kr/blog/dreamhack-supernova-writeup)
 - [[🥇 Gold 3] 필터는 글자를, curl 은 URL 을 본다 — DreamHack Curlove 풀이](https://zino.kr/blog/dreamhack-curlove-writeup)
 - [[🥇 Gold 4] JSON 한 줄이 클래스를 오염시킨다 — DreamHack Pybrid 풀이](https://zino.kr/blog/dreamhack-pybrid-writeup)
-- [[🥉 Bronze 4] robots.txt 가 가리킨 플래그가 가짜였다 — DreamHack fakeday 풀이](https://zino.kr/blog/dreamhack-fakeday-writeup)
-- [[🥈 Silver 3] 임시 테이블을 두 번 못 여는 SQLi — DreamHack [wargame.kr] counting query 풀이](https://zino.kr/blog/dreamhack-wargame-kr-counting-query-writeup)
-- [[🥇 Gold 2] 학교 이름이 템플릿이 되고, 공개키가 비밀키가 된다 — DreamHack dreamschool 풀이](https://zino.kr/blog/dreamhack-dreamschool-writeup)
-- [[🥉 Bronze 2] 금지 목록에 LD_PRELOAD 는 있고 LD_AUDIT 은 없다 — DreamHack linux_forest 풀이](https://zino.kr/blog/dreamhack-linux-forest-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
