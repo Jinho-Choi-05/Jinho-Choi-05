@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥈 Silver 4] 참/거짓 한 비트만 흘려도 AES 블록이 통째로 뜯긴다 — DreamHack Padding Miracle Attack 풀이](https://zino.kr/blog/dreamhack-padding-miracle-attack-writeup)
+- [[🥉 Bronze 1] 출력이 전부 /dev/null 인 쉘코드에서 플래그 꺼내기 — DreamHack blindsc 풀이](https://zino.kr/blog/dreamhack-blindsc-writeup)
+- [[🥉 Bronze 3] 널 종결자 한 바이트로 끝나는 오버플로 — DreamHack Is Over 100? 풀이](https://zino.kr/blog/dreamhack-is-over-100-writeup)
+- [[🥇 Gold 3] 서명 두 개로 공개키를 되살려 HMAC 키로 쓴다 — DreamHack Simple Login 풀이](https://zino.kr/blog/dreamhack-simple-login-writeup)
 - [[🥇 Gold 4] 쿼리스트링 키가 argv 가 된다 — DreamHack Pyramid 풀이](https://zino.kr/blog/dreamhack-pyramid-writeup)
 - [[🥈 Silver 1] GIF 네 글자로 위장한 PHP 객체 — DreamHack pharmacy 풀이](https://zino.kr/blog/dreamhack-pharmacy-writeup)
-- [[🥈 Silver 1] 대문자로 가입하면 관리자가 된다 — DreamHack WEB_2021A_Medium 풀이](https://zino.kr/blog/dreamhack-web-2021a-medium-writeup)
-- [[🥉 Bronze 1] 시계를 보여주는 카나리 — DreamHack randerer 풀이](https://zino.kr/blog/dreamhack-randerer-writeup)
-- [[🥈 Silver 3] 평문이 어느 1/4 구간인지만 흘려도 RSA 는 통째로 털린다 — DreamHack Supernova 풀이](https://zino.kr/blog/dreamhack-supernova-writeup)
-- [[🥇 Gold 3] 필터는 글자를, curl 은 URL 을 본다 — DreamHack Curlove 풀이](https://zino.kr/blog/dreamhack-curlove-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
