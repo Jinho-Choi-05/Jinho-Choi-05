@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [[🥇 Gold 2] 출력 함수가 하나도 없는 바이너리에서 libc 를 흘리는 법 — DreamHack validator-revenge 풀이](https://zino.kr/blog/dreamhack-validator-revenge-writeup)
+- [[🥈 Silver 2] 응답이 두 문장뿐인 SQL 인젝션 — DreamHack Bookwish 풀이](https://zino.kr/blog/dreamhack-bookwish-writeup)
 - [[🥈 Silver 4] 아직 안 연 가게의 뒷문 — DreamHack 슉슉 버거 풀이](https://zino.kr/blog/dreamhack-shukshuk-burger-writeup)
 - [[🥉 Bronze 2] 지우는 걸 깜빡한 평가기 — DreamHack Gyul_Console 풀이](https://zino.kr/blog/dreamhack-gyul-console-writeup)
 - [[🥈 Silver 2] 검사한 주소와 접속한 주소가 다르다 — DreamHack CProxy: Forge 풀이](https://zino.kr/blog/dreamhack-cproxy-forge-writeup)
 - [[🥇 Gold 4] 16비트짜리 값으로 libc 주소를 쓰는 법 — DreamHack Holymoly 풀이](https://zino.kr/blog/dreamhack-holymoly-writeup)
-- [멀티파트 요청 하나로 PHP 코어를 무너뜨린다 (CVE-2026-109618 / 109619): PHP2Shell 언인증 RCE 공격자 시점 해부](https://zino.kr/research/php2shell-unauth-rce-core)
-- [[🥈 Silver 4] 참/거짓 한 비트만 흘려도 AES 블록이 통째로 뜯긴다 — DreamHack Padding Miracle Attack 풀이](https://zino.kr/blog/dreamhack-padding-miracle-attack-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
