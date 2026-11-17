@@ -13,12 +13,12 @@
 
 ### 최근 글
 <!-- ZINO_POSTS:START -->
+- [zinosec 0편 — 내 서버가 막은 공격들 (프롤로그)](https://zino.kr/research/zinosec-00-prologue)
+- [zinosec 1편 — PHP 없는 서버에 쏟아지는 .php 공격 (no-php-execution)](https://zino.kr/research/zinosec-01-no-php-execution)
+- [zinosec 2편 — .env·.git·.aws, 서버 비밀 파일을 긁어 가려는 요청 (no-server-secrets)](https://zino.kr/research/zinosec-02-no-server-secrets)
 - [[🥈 Silver 1] 한글만 사용합시다 — DreamHack Hangul 풀이](https://zino.kr/blog/dreamhack-hangul-writeup)
 - [[🥉 Bronze 2] 두 번 쓴 일회용 패드 — DreamHack X-Time Pad 풀이](https://zino.kr/blog/dreamhack-x-time-pad-writeup)
 - [[🥈 Silver 1] 공개키를 HMAC 비밀키로 쓰게 만드는 법 — DreamHack MemoVault 풀이](https://zino.kr/blog/dreamhack-memovault-writeup)
-- [[🥉 Bronze 2] snprintf 반환값 하나로 스택을 넘는다 — DreamHack STB-lsExecutor 풀이](https://zino.kr/blog/dreamhack-stb-lsexecutor-writeup)
-- [[🥇 Gold 2] 출력 함수가 하나도 없는 바이너리에서 libc 를 흘리는 법 — DreamHack validator-revenge 풀이](https://zino.kr/blog/dreamhack-validator-revenge-writeup)
-- [[🥈 Silver 2] 응답이 두 문장뿐인 SQL 인젝션 — DreamHack Bookwish 풀이](https://zino.kr/blog/dreamhack-bookwish-writeup)
 <!-- ZINO_POSTS:END -->
 
 전체 글: **[zino.kr/blog](https://zino.kr/blog)** · 리서치: **[zino.kr/research](https://zino.kr/research)**
